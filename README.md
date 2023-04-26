@@ -17,6 +17,6 @@ Version 1.00
 
 # License
 
-Esta licensiado por: MIT License
+Esta licenciado por: MIT License
 
 
