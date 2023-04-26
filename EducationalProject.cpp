@@ -63,13 +63,13 @@ int main()
         cout << "0 puntos \n";
     }
     /*Cada ejercicio tiene un valor de 2 puntos.
-    Si escoge correctamente, obtiene +2 puntos,pero si escoge incorrectamente, no se le añade puntos*/
+    Si escoge correctamente, obtiene +2 puntos,pero si escoge incorrectamente, no se le aÃ±ade puntos*/
     
     cout << "\n";
     cout << "Listo/a para el proximo ejercicio? \n";
     cout << "Entra 1 para continuar \n";
     cin >> ready1;
-    //Cuando el usuario esté listo, entrará 1 para continuar.
+    //Cuando el usuario estÃ© listo, entrarÃ¡ 1 para continuar.
 
     cout << "\n";
     cout << "II.  Escoge cual de estas personas es la mas alta.(2 pts.) \n";
@@ -99,7 +99,7 @@ int main()
     }
     else {
         cout << "INCORRECTO \n";
-        cout << "La respuesta era b) 1 \n";
+        cout << "La respuesta era a) 1 \n";
     }
 
     if (resp2 == 1) {
@@ -169,7 +169,7 @@ int main()
         cout << "INCORRECTO \n";
         cout << "0 puntos \n";
     }
-    //Si el usiario elige el valor mas alto, se le añaden +2 puntos.
+    //Si el usiario elige el valor mas alto, se le aÃ±aden +2 puntos.
 
     cout << "\n";
     cout << "Listo/a para el proximo ejercicio? \n";
@@ -197,7 +197,7 @@ int main()
         cout << "0 puntos \n";
 
     }
-    //Si el usiario elige el valor mas alto, se le añaden +2 puntos.
+    //Si el usiario elige el valor mas alto, se le aÃ±aden +2 puntos.
 
     cout << "\n";
     cout << "Cual fue tu puntuacion final? \n";
