@@ -201,7 +201,7 @@ int main()
 
     cout << "\n";
     cout << "Cual fue tu puntuacion final? \n";
-    cout << "Entra la suma de los ejercicios que tuviste correctos! \n";
+    cout << "Entra cuantos puntos obtuviste! \n";
     cin >> total;
     //Ej. total = 8
     //(+2, +2, +2, +2)
